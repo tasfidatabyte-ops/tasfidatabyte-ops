@@ -1,49 +1,51 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20There!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=I%20am%20Tasfi%20ul%20Iman%20|%20Data%20Science%20Student&descAlignY=51&descAlign=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hi%20There!&fontSize=42&fontColor=fff&desc=I%20am%20Tasfi%20ul%20Iman%20|%20Data%20Science%20Student" />
 </div>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9AFE&center=true&vCenter=true&width=600&lines=Data+Science+Student;Machine+Learning+Enthusiast;Deep+Learning+Practitioner;NLP+%7C+Computer+Vision+%7C+MLOps;Always+Learning+New+Things" alt="Typing SVG" />
-</h1>
+<h3 align="center">Data Science Student | ML Enthusiast | NLP | Computer Vision | MLOps</h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9AFE&center=true&vCenter=true&width=435&lines=Turning+Data+into+Insights;Building+ML+Models;Learning+LLMs+and+AWS;Open+to+Collaboration" alt="Typing SVG" /></a>
+  <a href="https://leetcode.com/TASFI_DATA_BYTE">
+    <img src="https://leetcard.jacoblin.cool/TASFI_DATA_BYTE?theme=dark&ext=contest" />
+  </a>
 </p>
-
----
 
 ## 🚀 About Me
 
-```yaml
-name: Tasfi ul Iman
-located_in: Nankana Sahib, Punjab, Pakistan
-current_job: Data Science Student
-education:
-  - degree: "BS Data Science"
-    university: "Faculty of Computing and Information Technology, University of the Punjab, Lahore"
-    graduation: "2029"
-company: University of the Punjab
-fields_of_interests:
-  - Machine Learning
-  - Deep Learning
-  - Natural Language Processing
-  - Computer Vision
-  - MLOps
-  - Data Engineering
-currently_learning:
-  - Large Language Models (LLMs)
-  - AWS Cloud for ML
-  - Transformer Architectures
-  - Model Deployment Pipelines
-hobbies:
-  - Competitive Programming
-  - Building Libraries from Scratch
-  - Cricket Analytics & Simulation
-  - Open Source Contributing
-goals_2026:
-  - Master LLM fine-tuning and deployment
-  - Build end-to-end MLOps pipelines on AWS
-  - Contribute to open-source ML projects
-  - Land a Data Science internship
-looking_for: "Internship / Entry-level Data Science roles"
-reach_me_at: "tasfi.databyte@gmail.com"
+- 🎓 **BS Data Science** at University of the Punjab, Lahore (2029)
+- 📍 Nankana Sahib, Punjab, Pakistan
+- 🔭 Currently learning **LLMs, AWS, Transformer Architectures**
+- 🌱 Looking for **Data Science internships**
+- 📫 **tasfi.databyte@gmail.com**
+
+## 🛠️ Tech Stack
+
+**Languages:** Python, R, SQL, C++  
+**ML/DL:** TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy  
+**Visualization:** Matplotlib, Seaborn, Plotly, Streamlit  
+**Databases:** MySQL, PostgreSQL, MongoDB  
+**MLOps:** Docker, AWS, Git, Linux  
+**Tools:** VS Code, Jupyter, Anaconda
+
+## 📊 Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tasfidatabyte-ops&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tasfidatabyte-ops&theme=tokyonight&hide_border=true" />
+</p>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tasfidatabyte-ops/tasfidatabyte-ops/output/github-contribution-grid-snake.svg" />
+</p>
+
+## 📫 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin)](https://linkedin.com/in/tasfi-ul-iman-38b214384)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode)](https://leetcode.com/TASFI_DATA_BYTE)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail)](mailto:tasfi.databyte@gmail.com)
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
+</div>
