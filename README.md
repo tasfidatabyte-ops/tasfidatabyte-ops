@@ -1,9 +1,9 @@
 <div align="center">
 
-<!-- <img src="https://drive.google.com/file/d/13Esi406BdPj3EIR6703mLZYePycXaDk-/view?usp=drive_link" /> -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff41&height=200&section=header&text=TASFI%20UL%20IMAN&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20Student%20%7C%20ML%20%26%20MLOps&descAlignY=55&descSize=18" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://drive.google.com/file/d/13Esi406BdPj3EIR6703mLZYePycXaDk-/view?usp=drive_link" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Data+Science+%40+University+of+the+Punjab;Building+with+Python%2C+R%2C+SQL%2C+C%2B%2B;Fine-tuning+LLMs+%26+Transformers;Seeking+ML%2FData+Internships" />
 </a>
 
 <p align="center">
