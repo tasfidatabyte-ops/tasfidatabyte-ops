@@ -181,15 +181,20 @@ MLOps Pipeline
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tasfi-ul-iman-38b214384">
-    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-00ff41?style=for-the-badge&logo=linkedin&logoColor=0d1117&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:tasfi.databyte@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-MESSAGE-00ff41?style=for-the-badge&logo=gmail&logoColor=0d1117&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://leetcode.com/TASFI_DATA_BYTE">
-    <img src="https://img.shields.io/badge/LEETCODE-PROFILE-00ff41?style=for-the-badge&logo=leetcode&logoColor=0d1117&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
+---
+ 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:0d1117&height=100&section=footer" />
+</div>
 
 ---
 
