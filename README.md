@@ -1,6 +1,3 @@
-Here is the complete file content — copy everything below and paste it into your new `README.md`:
-
-```markdown
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=120&section=header&text=SYSTEM%20CORE%20INITIALIZED&fontSize=40&fontColor=00ff41&animation=fadeIn&fontAlignY=55&stroke=00ff41&strokeWidth=2" />
 </div>
@@ -49,8 +46,6 @@ THESIS_STATUS: PENDING
 
 ---
 
----
-
 `> ABOUT_ME`
 
 ```python
@@ -62,7 +57,7 @@ class TasfiUlIman:
         self.currently_learning = ["LLMs", "AWS", "Transformers"]
         self.leetcode = "TASFI_DATA_BYTE"
         self.status = "Seeking Internships"
-    
+
     def connect(self):
         return {
             "email": "tasfi.databyte@gmail.com",
@@ -70,16 +65,24 @@ class TasfiUlIman:
         }
 ```
 
+---
+
+`> LANGUAGE_&_TOOL_MATRIX`
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,r,mysql,cpp,tensorflow,pytorch,docker,aws,git,github,linux,vscode" />
+</p>
+
 `> TECH_STACK`
 
 ```diff
-+ Python        [████████████░░░░░░░░] 85%
-+ R             [█████████░░░░░░░░░░░] 70%
-+ SQL           [██████████░░░░░░░░░░] 75%
-+ TensorFlow    [████████░░░░░░░░░░░░] 60%
-+ PyTorch       [███████░░░░░░░░░░░░░] 55%
-+ Docker        [██████░░░░░░░░░░░░░░] 50%
-+ AWS           [████░░░░░░░░░░░░░░░░] 40%
++ Python        [████████████████░░░░] 85%
++ R             [██████████████░░░░░░] 70%
++ SQL           [███████████████░░░░░] 75%
++ TensorFlow    [████████████░░░░░░░░] 60%
++ PyTorch       [███████████░░░░░░░░░] 55%
++ Docker        [██████████░░░░░░░░░░] 50%
++ AWS           [████████░░░░░░░░░░░░] 40%
 ```
 
 ---
@@ -126,7 +129,24 @@ MLOps Pipeline
 
 `> CONTRIBUTION_TERRAIN`
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tasfidatabyte-ops&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tasfidatabyte-ops&theme=dark&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tasfidatabyte-ops&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tasfidatabyte-ops&theme=darkhub&no-frame=true&margin-w=10&row=1" />
+</p>
+
 `> LEETCODE_PERFORMANCE_RADAR`
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/TASFI_DATA_BYTE?theme=dark&font=Karma&ext=heatmap" />
+</p>
 
 ---
 
@@ -146,20 +166,28 @@ MLOps Pipeline
 
 ```bash
 $ curl -X GET https://api.linkedin.com/v1/users/tasfi-ul-iman-38b214384
-$ curl -X POST https://api.gmail.com/v1/send/to/tasfi.databyte@gmail.com
 $ curl -X GET https://api.leetcode.com/v1/users/TASFI_DATA_BYTE/stats
 ```
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/tasfi-ul-iman-38b214384">
+    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-00ff41?style=for-the-badge&logo=linkedin&logoColor=0d1117&labelColor=0d1117" />
+  </a>
+  <a href="mailto:tasfi.databyte@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-MESSAGE-00ff41?style=for-the-badge&logo=gmail&logoColor=0d1117&labelColor=0d1117" />
+  </a>
+</p>
 
 ---
 
 `> ACTIVITY_LOG`
 
-```bash
-[2026-07-14 02:23:01] tasfidatabyte-ops committed to README.md
-[2026-07-14 02:20:15] tasfidatabyte-ops updated snake.yml workflow
-[2026-07-14 02:15:33] tasfidatabyte-ops pushed to main branch
-[2026-07-14 01:45:12] MLOps Pipeline: initialized container
-[2026-07-13 23:10:45] MLOps Pipeline: deployed model v1.2
-```
+<!--START_SECTION:activity-->
+<!-- Populated automatically by github-readme-activity-box or a workflow — see note below -->
+<!--END_SECTION:activity-->
 
 ---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=60&section=footer&fontColor=00ff41&stroke=00ff41&strokeWidth=1" />
+</div>
