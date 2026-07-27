@@ -74,17 +74,38 @@ class TasfiUlIman:
   <img src="https://skillicons.dev/icons?i=python,r,mysql,cpp,tensorflow,pytorch,sklearn,pandas,numpy,jupyter,docker,aws,kubernetes,git,github,linux,vscode,githubactions" />
 </p>
 
-`> TECH_STACK`
+`> TECH_STACK
 
-```diff
-+ Python        [████████████████░░░░] 85%
-+ R             [██████████████░░░░░░] 70%
-+ SQL           [███████████████░░░░░] 75%
-+ TensorFlow    [████████████░░░░░░░░] 60%
-+ PyTorch       [███████████░░░░░░░░░] 55%
-+ Docker        [██████████░░░░░░░░░░] 50%
-+ AWS           [████████░░░░░░░░░░░░] 40%
-```
+<table>
+<tr>
+  <td width="120"><img src="https://skillicons.dev/icons?i=python" width="32"/> Python</td>
+  <td><img src="https://progress-bar.dev/85/?scale=100&title=&width=280&color=3776ab&suffix=%25" /></td>
+</tr>
+<tr>
+  <td width="120"><img src="https://skillicons.dev/icons?i=r" width="32"/> R</td>
+  <td><img src="https://progress-bar.dev/70/?scale=100&title=&width=280&color=276dc3&suffix=%25" /></td>
+</tr>
+<tr>
+  <td width="120"><img src="https://skillicons.dev/icons?i=mysql" width="32"/> SQL</td>
+  <td><img src="https://progress-bar.dev/75/?scale=100&title=&width=280&color=00758f&suffix=%25" /></td>
+</tr>
+<tr>
+  <td width="120"><img src="https://skillicons.dev/icons?i=tensorflow" width="32"/> TensorFlow</td>
+  <td><img src="https://progress-bar.dev/60/?scale=100&title=&width=280&color=ff6f00&suffix=%25" /></td>
+</tr>
+<tr>
+  <td width="120"><img src="https://skillicons.dev/icons?i=pytorch" width="32"/> PyTorch</td>
+  <td><img src="https://progress-bar.dev/55/?scale=100&title=&width=280&color=ee4c2c&suffix=%25" /></td>
+</tr>
+<tr>
+  <td width="120"><img src="https://skillicons.dev/icons?i=docker" width="32"/> Docker</td>
+  <td><img src="https://progress-bar.dev/50/?scale=100&title=&width=280&color=2496ed&suffix=%25" /></td>
+</tr>
+<tr>
+  <td width="120"><img src="https://skillicons.dev/icons?i=aws" width="32"/> AWS</td>
+  <td><img src="https://progress-bar.dev/40/?scale=100&title=&width=280&color=ff9900&suffix=%25" /></td>
+</tr>
+</table>
 
 ---
 
