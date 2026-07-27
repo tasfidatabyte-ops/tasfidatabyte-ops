@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://drive.google.com/file/d/13Esi406BdPj3EIR6703mLZYePycXaDk-/view?usp=drive_link" />
+<!-- <img src="https://drive.google.com/file/d/13Esi406BdPj3EIR6703mLZYePycXaDk-/view?usp=drive_link" /> -->
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Data+Science+%40+University+of+the+Punjab;Building+with+Python%2C+R%2C+SQL%2C+C%2B%2B;Fine-tuning+LLMs+%26+Transformers;Seeking+ML%2FData+Internships" />
+  <img src="https://drive.google.com/file/d/13Esi406BdPj3EIR6703mLZYePycXaDk-/view?usp=drive_link" />
 </a>
 
 <p align="center">
