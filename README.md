@@ -4,7 +4,7 @@
 
 ### Data Science Student
 
-**University of the Punjab · BS Data Science · Expected 2029**
+**Architecting data structures and unlocking insights from complex systems.**
 
 </div>
 
@@ -12,12 +12,12 @@
 
 ## About
 
-I am an undergraduate Data Science student at the University of the Punjab. I enjoy learning through hands-on projects and exploring how programming and data can be used to solve practical problems.
+**BS Data Science Student @PU-FCIT | C++ & Python | Exploring low-level system design (x86 Assembly), custom data structures (CSR/CSC matrices), and statistical analysis (Pandas, NumPy). Building the bridge between foundational computer science and applied machine learning.**
 
 ## Education
 
 **BS Data Science**  
-University of the Punjab · Expected graduation: 2029
+University of the Punjab.
 
 ## Technical Skills
 
